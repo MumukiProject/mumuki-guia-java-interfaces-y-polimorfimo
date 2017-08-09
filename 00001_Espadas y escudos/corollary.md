@@ -9,11 +9,11 @@ class Guerrero {
   //...constructor...
   
   int puntosDeAtaque() {
-    return puntosDeAtaqueBase + arma.puntosDeAtaque();
+    return puntosDeAtaqueBase + arma.refuerzoOfensivo();
   }
   
   int puntosDeDefensa() {
-    return puntosDeDefensaBase + arma.puntosDeDefensa();
+    return puntosDeDefensaBase + arma.refuerzoDefensivo();
   }
 }
 ```

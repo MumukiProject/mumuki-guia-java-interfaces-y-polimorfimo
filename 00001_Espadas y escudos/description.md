@@ -15,5 +15,5 @@ conan.puntosDeAtaque(); // conan tiene 18 + 2 de su escudo
 // etc...
 ```
 
-> Vamos de a poco: usando **solamente lo que vimos hasta ahora**, desarrollá las clases `Espada` y `Escudo`; ambas deben entender los mensajes `puntosDeAtaque` y `puntosDeDefensa`. 
+> Vamos de a poco: usando **solamente lo que vimos hasta ahora**, desarrollá las clases `Espada` y `Escudo`; ambas deben entender los mensajes `refuerzoOfensivo` y `refuerzoDefensivo`. 
 

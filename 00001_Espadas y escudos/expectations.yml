@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresClass:Espada
+- binding: "*"
+  inspection: DeclaresClass:Escudo
+- binding: Espada
+  inspection: DeclaresMethod:puntosDeAtaque
+- binding: Espada
+  inspection: DeclaresMethod:puntosDeDefensa
+- binding: Escudo
+  inspection: DeclaresMethod:puntosDeAtaque
+- binding: Escudo
+  inspection: DeclaresMethod:puntosDeDefensa

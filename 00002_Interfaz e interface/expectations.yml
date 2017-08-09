@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresClass:Guerrero
+- binding: "*"
+  inspection: DeclaresInterface:Arma
+- binding: "*"
+  inspection: DeclaresClass:Espada
+- binding: "*"
+  inspection: DeclaresClass:Escudo

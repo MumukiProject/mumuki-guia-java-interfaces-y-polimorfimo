@@ -1,7 +1,21 @@
-@Test
-public void se_puede_instanciar_un_guerrero() {
-  new Guerrero();
+class ArmaStub implements Arma {
+  int refuerzoOfensivo() {
+    return 0;
+  }
+  int refuerzoDefensivo() {
+    return 0;
+  }
 }
+
+@Test
+public void se_puede_instanciar_un_guerrero_usando_un_constructor() {
+  Arma a = new ArmaStub();
+  Guerrero g = new Guerrero(10, 2, a);
+  Assert.assertEquals("debería setear los puntos de ataque", 10, g.puntosDeAtaqueBase;
+  Assert.assertEquals("debería setear los puntos de defensa", 2, g.puntosDeDefensaBase);
+  Assert.assertEquals("debería setear el arma", a, g.arma);
+}
+
 
 @Test
 public void una_espada_tiene_10_de_ataque() {

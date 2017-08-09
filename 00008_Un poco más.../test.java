@@ -1,8 +1,8 @@
 class ArmaStub implements Arma {
-  int refuerzoOfensivo() {
+  public int refuerzoOfensivo() {
     return 0;
   }
-  int refuerzoDefensivo() {
+  public int refuerzoDefensivo() {
     return 0;
   }
 }

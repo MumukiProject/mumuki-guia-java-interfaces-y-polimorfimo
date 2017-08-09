@@ -1,3 +1,3 @@
-TODO
+Ahora que ya comprendimos algunos de los elementos fundamentales de la programación **orientada a objetos**, con **clases** y en Java, llegó el momento de que las cosas se pongan más interesantes: ¡po...li...morfismo!  :grin:.  
 
-Programar polimórficamente es bastante diferente en lenguajes con tipado estático. Veamos por qué
+Ah, pero programar polimórficamente es bastante diferente en lenguajes con **tipado estático** :scream:. ¡Veamos por qué!

@@ -1,6 +1,6 @@
-¡Uff! Por más que le demos vueltas y vueltas, no encontraremos un tipo para `arma` que resuelva nuestro problema, porque..
+¡Uff! Por más que le demos vueltas y vueltas, ninguno de los tipos existentes resuelven nuestro problema, porque..
 
-* ...si la tipamos como `Espada arma` sólo podremos crear guerreros con espadas;
+* ...si tipamos al `arma` como `Espada arma` sólo podremos crear guerreros con espadas;
 * ...y si la tipamos como `Escudo arma`, sólo podrán usar escudos. 
 
 

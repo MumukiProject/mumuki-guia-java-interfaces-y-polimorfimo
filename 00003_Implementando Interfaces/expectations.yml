@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Escudo
+  inspection: Implements:Arma
+- binding: Espada
+  inspection: Implements:Arma

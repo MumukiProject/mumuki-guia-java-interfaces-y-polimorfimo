@@ -12,3 +12,5 @@ expectations:
   inspection: DeclaresMethod:puntosDeAtaque
 - binding: Escudo
   inspection: DeclaresMethod:puntosDeDefensa
+- inspection: Not:DeclaresAttribute:*
+  binding: "*"

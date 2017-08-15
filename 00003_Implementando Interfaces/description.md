@@ -4,7 +4,7 @@ No, el código `new Guerrero(22, 2, new Espada())` aún no anda :sob:.
 
 ¿Y por qué no funciona? Para Java, no alcanza con entender todos los mensajes: una clase implementa una interfaz sólo cuando, además de definir todos los métodos necesarios:
 
- 1. lo indica **explícitamente mediante la declaración `implements`**;
+ 1. lo indica explícitamente mediante la declaración `implements`;
  2. todos los métodos que implementan la `interface` están marcados como `public`.
 
 Por ejemplo, si tanto las golondrinas como gorriones cantan: 

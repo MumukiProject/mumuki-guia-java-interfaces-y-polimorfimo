@@ -26,7 +26,7 @@ class Cueva {
 
 class VisitaAJava {
   void realizar() {
-    Cueva laCueva = new Cueva() 
-    laCueva.entrarCon(new Vela())
+    Cueva laCueva = new Cueva() ;
+    laCueva.entrarCon(new Vela());
   }
 } 

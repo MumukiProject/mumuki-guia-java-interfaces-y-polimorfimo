@@ -5,5 +5,5 @@ Nuevamente leamos el código que está en el editor. También está bastante cla
 > Una vez más:  
 > 
 >  1. Primero, enviá el código en el editor. **Prestá atención a qué tipo de errores arroja**. 
->  2. Después, envialo de nuevo, pero renombrando `alumbrar` por `iluminar`, para que cumpla la `interface` `Iluminador`.
+>  2. Después, envialo de nuevo, pero renombrando `alumbrar` por `iluminar` y agregando el `public` faltante, para que cumpla la `interface` `Iluminador`.
 

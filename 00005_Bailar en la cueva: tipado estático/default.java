@@ -17,7 +17,7 @@ class Vela implements Iluminador {
 class Cueva {
   void entrarCon(Iluminador iluminador) {
     iluminador.iluminar();
-    proyectarSombrasTerrorificas()
+    proyectarSombrasTerrorificas();
   }
   void proyectarSombrasTerrorificas()  {
     // ...    

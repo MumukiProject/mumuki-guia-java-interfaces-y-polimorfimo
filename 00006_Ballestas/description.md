@@ -6,4 +6,4 @@ De ellas sabemos que:
  * tienen un refuerzo ofensivo de 8; 
  * no tienen refuerzo defensivo.
  
-> Implementá la clase `Ballesta`. Ya definimos la interfaz `Arma` por vos en la biblioteca. 
+> Implementá la clase `Ballesta`. Ya definimos la interfaz `Arma` por vos en la biblioteca.

@@ -19,7 +19,7 @@ class Cueva {
     iluminador.iluminar();
     proyectarSombrasTerrorificas();
   }
-  void proyectarSombrasTerrorificas()  {
+  void proyectarSombrasTerrorificas() {
     // ...    
   }
 }

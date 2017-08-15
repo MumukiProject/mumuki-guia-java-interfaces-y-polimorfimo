@@ -20,5 +20,9 @@ class Cueva
   end
 end
 
-la_cueva = Cueva.new 
-la_cueva.entrar_con! Vela.new
+class VisitaARuby 
+  def realizar!
+    la_cueva = Cueva.new 
+    la_cueva.entrar_con! Vela.new
+  end
+end

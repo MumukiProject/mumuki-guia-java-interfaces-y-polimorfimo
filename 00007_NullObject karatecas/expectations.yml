@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: Not:DeclaresInterface:Arma
+- binding: "*"
+  inspection: DeclaresClass:ManoDesnuda
+- binding: ManoDesnuda
+  inspection: Implements:Arma

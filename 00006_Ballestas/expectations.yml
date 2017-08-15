@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: Ballesta
+  inspection: Implements:Arma

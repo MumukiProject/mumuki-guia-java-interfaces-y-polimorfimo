@@ -1,6 +1,6 @@
 Visitemos ahora a Java en su propia cueva. 
 
-Nuevamente leamos el código que está en el editor. También está bastante claro que si en `VisitaARuby.realizar` hacemos `laCueva.entrarCon(new Linterna())`, las cosas funcionan, pero no así si hacemos `laCueva.entrarCon(new Vela())`.
+Nuevamente leamos el código que está en el editor. También está bastante claro que si en `VisitaAJava.realizar` hacemos `laCueva.entrarCon(new Linterna())`, las cosas funcionan, pero no así si hacemos `laCueva.entrarCon(new Vela())`.
 
 > Una vez más:  
 > 

@@ -2,3 +2,5 @@
 expectations:
 - binding: Ballesta
   inspection: Implements:Arma
+- binding: "*"
+  inspection: DeclaresClass:Ballesta

@@ -2,6 +2,9 @@ Hagamos una pausa para visitar (con una linterna :flashlight: en la mano) a un n
 
 Miremos un momento el código que está en el editor. Está bastante claro que si en `VisitaARuby.realizar!` hacemos `la_cueva.entrar_con! Linterna.new`, todo andará perfectamente. Pero, ¿qué sucede si hacemos `la_cueva.entrar_con! Vela.new`?
 
-> Probalo vos mismo, enviando el código en el editor. 
+> Probalo vos mismo: 
+> 
+>  1. Primero, enviá el código en el editor. 
+>  2. Luego envialo de nuevo, pero renombrando `alumbrar!` por `iluminar!`, para que las velas y lámparas sean polimórficas. 
 
 

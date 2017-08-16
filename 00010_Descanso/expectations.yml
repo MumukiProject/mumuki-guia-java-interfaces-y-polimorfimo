@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: Implements:*
+- binding: "*"
+  inspection: DeclaresInterface:*

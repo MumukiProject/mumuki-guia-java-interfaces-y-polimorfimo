@@ -14,8 +14,9 @@ Pero, ahora que las conocemos, sabemos que si `Triceratops` implementa `Dinasaur
 Dinosaurio billy = new Triceratops();
 ```
 
-Esto significa que una variable puede ser tipada de múltiples formas, o en otras palabras, que un objeto tiene más de un tipo. 
-> Veamos si se entiende: dado el siguiente modelo, ¿de qué formas podemos tipar a las siguiente variables?
+Esto significa que una variable puede ser tipada de múltiples formas, o en otras palabras, **que un objeto tiene más de un tipo**: uno por cada interfaz que implemente :open_mouth:.
+
+> Veamos si se entiende hasta acá: ¿de qué formas podemos tipar a las siguientes variables?
 > 
 
 

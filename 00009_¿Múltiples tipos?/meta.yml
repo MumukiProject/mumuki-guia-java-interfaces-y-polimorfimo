@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: 
+manual_evaluation: false
+choices:
+- value: Tiranosaurio jason = new Tiranosaurio();
+  checked: true
+- value: Dinosaurio jason = new Tiranosaurio();
+  checked: true
+- value: Velociraptor jason = new Tiranosaurio();
+  checked: false
+- value: Tiranosaurio riley = new Velociraptor();
+  checked: false

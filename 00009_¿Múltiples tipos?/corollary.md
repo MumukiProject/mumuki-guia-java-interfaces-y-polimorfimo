@@ -1,10 +1,11 @@
-De todas formas, no todos los tipos nos son útiles. Por ejemplo, si tipamos a un velociraptor de la siguiente forma...
+De todas formas, no todos los tipos nos son útiles. Por ejemplo, si tipamos a un velociraptor de la siguiente forma, podremos enviarle el mensaje `dormir`...
 
 ```java
 Dinosaurio riley = new Velociraptor();
+riley.dormir();
 ```
 
-...no podremos enviarle el mensaje `salirACazar`, dado que fallará estáticamente al no pertenecer ese mensaje a la interfaz: 
+...pero no podremos enviarle el mensaje `salirACazar`, dado que fallará estáticamente al no pertenecer ese mensaje a la interfaz: 
 
 
 ```
@@ -12,15 +13,16 @@ Dinosaurio riley = new Velociraptor();
 jason.salirACazar();
 ```
 
-En cambio, si lo tipamos como `Velociraptor` sí podemos hacerlo: 
+En cambio, si lo tipamos como `Velociraptor` sí podemos enviar ambos mensajes: 
 
 
 ```java
 Velociraptor riley = new Velociraptor();
+riley.dormir();
 riley.salirACazar();
 ```
 
-Pero claro, si tipamos a riley de esta forma, sólo podrá referenciar a velociraptores, por lo que si luego hacemos...
+Pero claro, si tipamos a `riley` de esta forma, sólo podrá referenciar a velociraptores, por lo que si luego hacemos...
 
 ```java
 riley = new Tiranosaurio();
@@ -29,6 +31,8 @@ riley = new Tiranosaurio();
 ...fallará estáticamente. 
 
 Entonces, ¿cuál es la forma correcta de tipar? ¡Depende de que mensajes necesites enviar! 
+
+_Si sólo necesitás un dinosaurio, tipá como dinosaurio. Pero si necesitás un velociraptor, tipá como velociraptor_ 
 
 
 

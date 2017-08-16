@@ -2,7 +2,7 @@ Analicemos el siguiente modelo:
 
 ![](http://www.plantuml.com/plantuml/png/bSuz3i8m30NWFQV8MCx0XCh00H2xSOsmbCJHSze1rBlp8uh4X3ezoNh-zBGqmOLOubwBEOrGY_SGusGwnC6G5Trc6-OGE95xF2heMzHSasGfpV-yVmxdqPdG4s15wSSzIJ9-shKPLhjEIR7hwKRBs6Kjb0NKhFfgb2qB3YgOgBk-uqK_0000)
 
-Antes de introducir las interfaces, si en Java declarábamos una variable que referenciara una instancia de `Triceratops`, lo hacíamos de la siguiente forma: 
+Antes de introducir las interfaces, si en Java declarábamos una variable que referenciaba una instancia de `Triceratops`, lo hacíamos de la siguiente forma: 
 
 ```java
 Triceratops billy = new Triceratops();

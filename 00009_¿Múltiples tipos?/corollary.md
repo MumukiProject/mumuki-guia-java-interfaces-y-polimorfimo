@@ -13,7 +13,7 @@ riley.dormir();
 jason.salirACazar();
 ```
 
-En cambio, si lo tipamos como `Velociraptor` sí podemos enviar ambos mensajes: 
+En cambio, si lo tipamos como `Velociraptor` sí podemos enviar ambos mensajes...
 
 
 ```java
@@ -22,7 +22,7 @@ riley.dormir();
 riley.salirACazar();
 ```
 
-Pero claro, si tipamos a `riley` de esta forma, sólo podrá referenciar a velociraptores, por lo que si luego hacemos...
+...pero claro, sólo podrá referenciar a velociraptores :stuck_out_tongue:. Por eso, si luego hacemos...
 
 ```java
 riley = new Tiranosaurio();

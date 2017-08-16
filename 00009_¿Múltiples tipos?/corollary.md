@@ -8,7 +8,7 @@ riley.dormir();
 ...pero no podremos enviarle el mensaje `salirACazar`, dado que fallará estáticamente al no pertenecer ese mensaje a la interfaz: 
 
 
-```
+```java
 // no compila
 jason.salirACazar();
 ```

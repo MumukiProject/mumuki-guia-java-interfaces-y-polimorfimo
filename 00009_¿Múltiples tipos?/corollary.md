@@ -32,7 +32,7 @@ riley = new Tiranosaurio();
 
 Entonces, ¿cuál es la forma correcta de tipar? ¡Depende de que mensajes necesites enviar! 
 
-_Si sólo necesitás un dinosaurio, tipá como dinosaurio. Pero si necesitás un velociraptor, tipá como velociraptor_ 
+_Si sólo necesitás un dinosaurio, tipá como dinosaurio. Pero si necesitás un velociraptor, tipá como velociraptor :sunglasses:._
 
 
 

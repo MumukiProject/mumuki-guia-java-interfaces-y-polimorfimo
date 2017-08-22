@@ -15,10 +15,4 @@ La bebida puede ser una botella de agua individual un un equipo de mate (que sie
 > 1. la cantidad total de calorías del picnic; 
 > 2. y si podemos compartirlo (esto ocurre cuando tanto la bebida como la comida se pueden compartir).
 > 
-> Por ejemplo, 
-> 
->  * si ponemos en el bolso la ensalada de frutas y el agua, suma 50 calorías y no se puede compartir; 
->  * si ponemos en el bolso las medialunas y el mate, suma 1524 calorías y se puede compartir;
->  * si ponemos en el bolso la ensalada de frutas y el mate, suma 50 calorías pero **no** se puede compartir. 
-> 
 > :cop: ¡No te olvides de aprovechar el polimorfismo!

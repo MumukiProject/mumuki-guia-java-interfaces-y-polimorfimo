@@ -4,3 +4,5 @@ expectations:
   inspection: Implements:*
 - binding: "*"
   inspection: DeclaresInterface:*
+- binding: "*"
+  inspection: UsesDynamicPolymorphism

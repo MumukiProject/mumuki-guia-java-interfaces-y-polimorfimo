@@ -1,5 +1,3 @@
-¿Pero por dónde empiezo? ¿Qué clases y métodos tengo que definir? :cold_sweat:
+¿Pero por dónde empiezo? ¿Qué clases y métodos tengo que definir? :sweat_smile:
 
-¡Calma! Este es un ejercicio muy abierto, y vamos a dejar que lo decidas vos. 
-
-Nosotros sólo vamos a revisar que tu programa compile y que aproveche el polimorfismo. 
+Mirá la biblioteca, ¡te dejamos varios ejemplos de uso!

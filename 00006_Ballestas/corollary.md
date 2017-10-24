@@ -1,1 +1,1 @@
-¿Y si nuestras guerras y guerreros no tuvieran armas? ¿Qué podríamos hacer?
+¿Y si nuestras guerreras y guerreros no tuvieran armas? ¿Qué podríamos hacer?

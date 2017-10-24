@@ -1,6 +1,6 @@
 ¡Fiuf! ¡Mucha información junta! :sweat_smile: 
 
-Nos merecemos un descansao antes de continuar nuestro recorrido por el mundo de los objetos y el tipado estático. Pongamos algo de comida y bebida en nuestro bolso y vayamos al paraque a hacer picnic :deciduous_tree:.
+Nos merecemos un descanso antes de continuar nuestro recorrido por el mundo de los objetos y el tipado estático. Pongamos algo de comida y bebida en nuestro bolso y vayamos al paraque a hacer picnic :deciduous_tree:.
 
 En el bolso vamos guardar una bebida y un _táper_ con comida. La comida puede ser: 
 
@@ -8,7 +8,7 @@ En el bolso vamos guardar una bebida y un _táper_ con comida. La comida puede s
   * tres _sánguches_, que aportan 600 calorías y no son para compartir
   * una ensalada de frutas chica, que aporta 50 calorías y no es para compartir
 
-La bebida puede ser una botella de agua individual un un equipo de mate (que siempre es para compartir, obvio :smile:). 
+La bebida puede ser una botella de agua individual o un equipo de mate (que siempre es para compartir, obvio :smile:). 
 
 > Escribí un programa que permita representar esta situación y averiguar:
 > 

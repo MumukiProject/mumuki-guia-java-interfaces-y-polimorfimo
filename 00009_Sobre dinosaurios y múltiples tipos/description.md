@@ -8,7 +8,7 @@ Antes de introducir las interfaces, si en Java declarábamos una variable que re
 Triceratops billy = new Triceratops();
 ```
 
-Pero, ahora que las conocemos, sabemos que si `Triceratops` implementa `Dinasaurio`, también podemos hacer:
+Pero, ahora que las conocemos, sabemos que si `Triceratops` implementa `Dinosaurio`, también podemos hacer:
 
 ```java
 Dinosaurio billy = new Triceratops();

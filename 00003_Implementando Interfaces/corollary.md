@@ -1,6 +1,6 @@
 :tada: :confetti_ball: ¡Al fin! ¡Ahora sí tenemos código polimórfico! Wiiiiiii 
 
-¿Y qué pasa si agregamos un `implements` a la declaración de una clase pero implementamos todos los métodos definidos en la `interface`? Por ejemplo: 
+¿Y qué pasa si agregamos un `implements` a la declaración de una clase pero no implementamos todos los métodos definidos en la `interface`? Por ejemplo: 
 
 ```java
 class Gorrion implements Cantante {

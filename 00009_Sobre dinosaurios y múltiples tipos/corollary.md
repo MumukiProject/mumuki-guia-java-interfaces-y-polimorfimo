@@ -13,7 +13,7 @@ riley.dormir();
 jason.salirACazar();
 ```
 
-En cambio, si lo tipamos como `Velociraptor` sí podemos enviar ambos mensajes...
+En cambio, si lo tipamos como `Velociraptor`, sí podemos enviar ambos mensajes...
 
 
 ```java
@@ -30,7 +30,7 @@ riley = new Tiranosaurio();
 
 ...fallará estáticamente. 
 
-Entonces, ¿cuál es la forma correcta de tipar? ¡Depende de que mensajes necesites enviar! 
+Entonces, ¿cuál es la forma correcta de tipar? ¡Depende de qué mensajes necesites enviar! 
 
 _Si sólo necesitás un dinosaurio, tipá como dinosaurio. Pero si necesitás un velociraptor, tipá como velociraptor :sunglasses:._
 

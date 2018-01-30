@@ -5,12 +5,12 @@ expectations:
 - binding: "*"
   inspection: DeclaresClass:Escudo
 - binding: Espada
-  inspection: DeclaresMethod:puntosDeAtaque
+  inspection: DeclaresMethod:refuerzoOfensivo
 - binding: Espada
-  inspection: DeclaresMethod:puntosDeDefensa
+  inspection: DeclaresMethod:refuerzoDefensivo
 - binding: Escudo
-  inspection: DeclaresMethod:puntosDeAtaque
+  inspection: DeclaresMethod:refuerzoOfensivo
 - binding: Escudo
-  inspection: DeclaresMethod:puntosDeDefensa
-- inspection: Not:DeclaresAttribute:*
-  binding: "*"
+  inspection: DeclaresMethod:refuerzoDefensivo
+- binding: "*"
+  inspection: Not:DeclaresAttribute:*

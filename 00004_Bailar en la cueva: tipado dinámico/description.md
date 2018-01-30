@@ -5,6 +5,6 @@ Miremos un momento el código que está en el editor. Está bastante claro que s
 > Probalo vos mismo: 
 > 
 >  1. Primero, enviá el código en el editor. **Mirá el detalle de los errores**. 
->  2. Después, envialo de nuevo, pero renombrando `alumbrar!` por `iluminar!`, para que las velas y linternas sean polimórficas. 
+>  2. Después, envialo de nuevo, pero renombrando `alumbrar!` por `iluminar!` en la clase `Vela`, para que las velas y linternas sean polimórficas. 
 
 

@@ -4,6 +4,6 @@ Otra vez está bastante claro que si en `VisitaAJava.realizar` hacemos `laCueva.
 
 > Una vez más:  
 > 
->  1. Primero, enviá el código en el editor. **Prestá atención a qué tipo de errores que arroja**. 
+>  1. Primero, enviá el código en el editor. **Prestá atención a qué tipo de errores arroja**. 
 >  2. Después, envialo de nuevo, pero renombrando `alumbrar` por `iluminar` y agregando el `public` faltante, para que cumpla la `interface` `Iluminador`.
 

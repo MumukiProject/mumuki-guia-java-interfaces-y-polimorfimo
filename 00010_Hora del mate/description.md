@@ -1,6 +1,6 @@
 ¡Fiuf! ¡Mucha información junta! :sweat_smile: 
 
-Nos merecemos un descanso antes de continuar nuestro recorrido por el mundo de los objetos y el tipado estático. Pongamos algo de comida y bebida en nuestro bolso y vayamos al paraque a hacer picnic :deciduous_tree:.
+Nos merecemos un descanso antes de continuar nuestro recorrido por el mundo de los objetos y el tipado estático. Pongamos algo de comida y bebida en nuestro bolso y vayamos al parque a hacer picnic :deciduous_tree:.
 
 En el bolso vamos guardar una bebida y un _táper_ con comida. La comida puede ser: 
 

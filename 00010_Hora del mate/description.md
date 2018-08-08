@@ -12,7 +12,7 @@ La bebida puede ser una botella de agua individual o un equipo de mate (que siem
 
 > Escribí un programa que permita representar esta situación y averiguar:
 > 
-> 1. la cantidad total de calorías del picnic; 
+> 1. la cantidad total de calorías del picnic, la cual está determinada por las calorias de la comida; 
 > 2. y si podemos compartirlo (esto ocurre cuando tanto la bebida como la comida se pueden compartir).
 > 
 > :cop: ¡No te olvides de aprovechar el polimorfismo!

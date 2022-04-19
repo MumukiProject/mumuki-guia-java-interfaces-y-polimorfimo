@@ -1,4 +1,4 @@
-Como ves, `interface` es una nueva herramienta que nos da Java y que nos permite:
+Como notarás, `interface` es una nueva herramienta que nos da Java y que nos permite:
 
   * declarar explícitamente una interfaz, listando todos los mensajes que la componen (¡pero no sus implementaciones!)
   * crear nuevos tipos (en este caso, `Arma`), que nos sirven para tipar variables cuando no tenemos otra opción. 

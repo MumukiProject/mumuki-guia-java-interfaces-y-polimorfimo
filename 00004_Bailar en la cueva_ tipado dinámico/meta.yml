@@ -6,6 +6,7 @@ editor: code
 type: problem
 extra_visible: false
 language: ruby
+teacher_info: ''
 manual_evaluation: false
 choices: []
 name: 'Bailar en la cueva: tipado dinámico'

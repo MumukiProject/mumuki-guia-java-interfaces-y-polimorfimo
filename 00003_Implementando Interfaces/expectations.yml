@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: Escudo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Escudo
   inspection: Implements:Arma
-- binding: Espada
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Espada
   inspection: Implements:Arma

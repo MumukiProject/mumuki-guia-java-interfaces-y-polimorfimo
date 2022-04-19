@@ -1,16 +1,23 @@
 ---
 expectations:
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresClass:Espada
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresClass:Escudo
-- binding: Espada
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Espada
   inspection: DeclaresMethod:refuerzoOfensivo
-- binding: Espada
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Espada
   inspection: DeclaresMethod:refuerzoDefensivo
-- binding: Escudo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Escudo
   inspection: DeclaresMethod:refuerzoOfensivo
-- binding: Escudo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Escudo
   inspection: DeclaresMethod:refuerzoDefensivo
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Not:DeclaresAttribute:*

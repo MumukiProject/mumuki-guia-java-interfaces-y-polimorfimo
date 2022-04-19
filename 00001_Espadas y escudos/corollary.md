@@ -1,4 +1,4 @@
-¡Bien! Ahora intentemos declarar la clase `Guerrero`: 
+¡Bien! Ahora intentemos definir la clase `Guerrero`: 
 
 ```java
 class Guerrero {
